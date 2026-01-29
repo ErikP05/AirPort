@@ -1,0 +1,152 @@
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-25 18:07:28 | AvionDAO.DataHelperSQLiteDAO | path to 'storage\Databases\antCiberDron.sqlite': 'D:\workspace\Clases de la U\AiportProyect-main\storage\Databases' does not exist
+???? SHOW ?? Error al instanciar classDAO<T> 
+????? LOG  ?? 2026-01-25 18:07:28 | FactoryBL.FactoryBL(...) | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-25 18:11:05 | AvionDAO.DataHelperSQLiteDAO | path to 'storage\Databases\AirPort.sqlite': 'D:\workspace\Clases de la U\AiportProyect-main\storage\Databases' does not exist
+???? SHOW ?? Error al instanciar classDAO<T> 
+????? LOG  ?? 2026-01-25 18:11:05 | FactoryBL.FactoryBL(...) | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-25 18:12:20 | AvionDAO.DataHelperSQLiteDAO | path to 'Storage\Databases\AirPort.sqlite': 'D:\workspace\Clases de la U\AiportProyect-main\Storage\Databases' does not exist
+???? SHOW ?? Error al instanciar classDAO<T> 
+????? LOG  ?? 2026-01-25 18:12:20 | FactoryBL.FactoryBL(...) | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-25 18:14:20 | AvionDAO.DataHelperSQLiteDAO | path to ' ..Storage\Databases\AirPort.sqlite': 'D:\workspace\Clases de la U\AiportProyect-main\ ..Storage' does not exist
+???? SHOW ?? Error al instanciar classDAO<T> 
+????? LOG  ?? 2026-01-25 18:14:20 | FactoryBL.FactoryBL(...) | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-25 21:25:57 | PaisDestinoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: PaisDestino.Nombre)
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-25 21:26:18 | PaisDestinoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: PaisDestino.Nombre)
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-28 23:18:26 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM4 
+╰──── LOG  ❱❱ 2026-01-28 23:24:50 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-28 23:25:56 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-28 23:26:36 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-28 23:27:29 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-28 23:27:35 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-28 23:27:40 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-28 23:55:01 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ El UID RFID ya está registrado: F7B2AB85 
+╰──── LOG  ❱❱ 2026-01-28 23:56:23 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-29 00:15:46 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-29 00:16:38 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-29 01:31:57 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 01:34:38 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 01:34:42 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 01:34:45 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ Respuesta inesperada:  
+╰──── LOG  ❱❱ 2026-01-29 01:41:17 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 01:42:15 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 01:42:19 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 01:42:37 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 01:42:43 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 01:43:48 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 01:49:47 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 01:51:53 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 01:53:41 | AvionDAO.create | [SQLITE_ERROR] SQL error or missing database (table Avion has no column named Descripcion)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 01:56:06 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.FechaVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 08:08:07 | AvionDAO.create | [SQLITE_ERROR] SQL error or missing database (table Avion has no column named Descripcion)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 08:58:51 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.HoraVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 08:58:56 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.HoraVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 09:42:43 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.HoraVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 09:42:53 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.HoraVuelo)
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM4 
+╰──── LOG  ❱❱ 2026-01-29 09:44:08 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ Respuesta inesperada:  
+╰──── LOG  ❱❱ 2026-01-29 09:44:24 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ Respuesta inesperada:  
+╰──── LOG  ❱❱ 2026-01-29 09:47:33 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 09:48:18 | PasajeroDAO.create | [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: Pasajero.Cedula)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 09:49:18 | PasajeroDAO.create | [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: Pasajero.Cedula)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 09:52:53 | PasajeroDAO.create | [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: Pasajero.Cedula)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 09:56:49 | PasajeroDAO.create | [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: Pasajero.Cedula)
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM4 
+╰──── LOG  ❱❱ 2026-01-29 10:07:14 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-29 10:07:20 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se detectÃ³ tarjeta 
+╰──── LOG  ❱❱ 2026-01-29 10:07:56 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM4 
+╰──── LOG  ❱❱ 2026-01-29 10:09:16 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-29 10:09:22 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM4 
+╰──── LOG  ❱❱ 2026-01-29 10:10:13 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-29 10:11:52 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-29 10:12:35 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 10:24:51 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.HoraVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 10:34:53 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.HoraVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 10:37:35 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.HoraVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 10:55:28 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.HoraVuelo)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 10:56:36 | VueloDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: Vuelo.HoraVuelo)
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM4 
+╰──── LOG  ❱❱ 2026-01-29 11:33:13 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-29 11:33:19 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 11:35:07 | PasajeroDAO.create | [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: Pasajero.UidRfid)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 11:38:46 | PasajeroDAO.create | [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: Pasajero.UidRfid)
+╭─💀─ SHOW ❱❱ Respuesta inesperada:  
+╰──── LOG  ❱❱ 2026-01-29 12:21:01 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-29 12:22:04 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 12:23:26 | AvionDAO.create | [SQLITE_ERROR] SQL error or missing database (table Avion has no column named Descripcion)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 12:23:57 | AvionDAO.create | [SQLITE_ERROR] SQL error or missing database (table Avion has no column named Descripcion)
+╭─💀─ SHOW ❱❱ Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+╰──── LOG  ❱❱ 2026-01-29 12:25:30 | AvionDAO.create | [SQLITE_ERROR] SQL error or missing database (table Avion has no column named Descripcion)
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-29 12:29:56 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ Error durante la limpieza automática de registros 
+╰──── LOG  ❱❱ 2026-01-29 12:40:34 | CleanupService.ejecutarLimpieza | [SQLITE_ERROR] SQL error or missing database (cannot VACUUM from within a transaction)
+╭─💀─ SHOW ❱❱ Error al eliminar el pasajero y sus registros relacionados 
+╰──── LOG  ❱❱ 2026-01-29 12:40:34 | PasajeroDAO.deleteCascade | database connection closed
+╭─💀─ SHOW ❱❱ Error durante la limpieza automática de registros 
+╰──── LOG  ❱❱ 2026-01-29 12:40:44 | CleanupService.ejecutarLimpieza | [SQLITE_ERROR] SQL error or missing database (cannot VACUUM from within a transaction)
+╭─💀─ SHOW ❱❱ Error al eliminar el pasajero y sus registros relacionados 
+╰──── LOG  ❱❱ 2026-01-29 12:40:44 | PasajeroDAO.deleteCascade | database connection closed
+╭─💀─ SHOW ❱❱ Error durante la limpieza automática de registros 
+╰──── LOG  ❱❱ 2026-01-29 12:40:55 | CleanupService.ejecutarLimpieza | [SQLITE_ERROR] SQL error or missing database (cannot VACUUM from within a transaction)
+╭─💀─ SHOW ❱❱ Error al eliminar el pasajero y sus registros relacionados 
+╰──── LOG  ❱❱ 2026-01-29 12:40:55 | PasajeroDAO.deleteCascade | database connection closed
