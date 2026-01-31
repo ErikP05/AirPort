@@ -1,0 +1,81 @@
+<mxfile host="65bd71144e">
+    <diagram id="8hHglG_TACGwXwKHWNe4" name="Page-1">
+        <mxGraphModel dx="2279" dy="647" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="Airport" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-119" y="46" width="708" height="575" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="3">
+                    <mxGeometry width="672.9118942731277" height="287.63734076433116" relative="1" as="geometry">
+                        <mxPoint y="37" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="Registrar los datos de los pasajeros usando nombre, asiento, identificacion y codigo RFID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+                    <mxGeometry x="245.62" y="43.83" width="221.38" height="67.17" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Registrar datos de vuelos, registrar y gestionar reservaciones" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+                    <mxGeometry x="125.54" y="98.89" width="174.46" height="64.11" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Leer codigo RFID usando arduino obteninedo y enviando el UID al programa en Java" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+                    <mxGeometry x="84.99" y="165.72" width="183.01" height="71.28" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Realizar la validacion del vuelo del pasajero para verificar que tenga un vuelo valido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+                    <mxGeometry x="125.54" y="249.05" width="218.46" height="67.95" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Mostrar mensajes de confirmacion del erro dependiendo de la lectura del codigo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+                    <mxGeometry x="146.59" y="329" width="208.41" height="69.41" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Mostrar Lista de pasajeros registrados por vuelo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+                    <mxGeometry x="323.59" y="378" width="123.41" height="72.61" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Realizar check-in y actualizar estado del pasajero" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+                    <mxGeometry x="419.5" y="425" width="127.5" height="80.67" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Pasajero" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="638" y="226" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" style="edgeStyle=none;html=1;" edge="1" parent="1" source="28" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="28" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="28" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="28" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="28" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="642" y="331" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Arduino" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="-214" y="213" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Llector RFID" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="-192" y="375" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=none;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="34" target="35">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;" edge="1" parent="1" source="13" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;entryX=0.779;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="28" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=none;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="13" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

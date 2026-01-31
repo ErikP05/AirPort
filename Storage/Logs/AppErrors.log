@@ -150,3 +150,13 @@
 ╰──── LOG  ❱❱ 2026-01-29 12:40:55 | CleanupService.ejecutarLimpieza | [SQLITE_ERROR] SQL error or missing database (cannot VACUUM from within a transaction)
 ╭─💀─ SHOW ❱❱ Error al eliminar el pasajero y sus registros relacionados 
 ╰──── LOG  ❱❱ 2026-01-29 12:40:55 | PasajeroDAO.deleteCascade | database connection closed
+╭─💀─ SHOW ❱❱ Respuesta inesperada:  
+╰──── LOG  ❱❱ 2026-01-29 15:04:16 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se detectÃ³ tarjeta 
+╰──── LOG  ❱❱ 2026-01-29 15:04:22 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se pudo abrir el puerto COM7 
+╰──── LOG  ❱❱ 2026-01-29 15:07:17 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ Respuesta inesperada:  
+╰──── LOG  ❱❱ 2026-01-29 15:07:37 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+╭─💀─ SHOW ❱❱ No se detectÃ³ tarjeta 
+╰──── LOG  ❱❱ 2026-01-29 15:07:40 | undefined.undefined | Ups! Error inesperado. Por favor, contacte al administrador del sistema.

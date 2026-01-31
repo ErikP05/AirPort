@@ -6,10 +6,8 @@ import java.sql.Statement;
 import Infrastructure.AppException;
 import DataAccess.Helpers.DataHelperSQLiteDAO;
 
-/**
- * Servicio de limpieza automática de registros marcados como eliminados (Estado='X')
- * Se ejecuta después de cada operación de eliminación lógica
- */
+
+ //Servicio de limpieza automática de registros marcados como eliminados (Estado='X')
 public class CleanupService {
     
     private static final String[] TABLES_ORDER = {
